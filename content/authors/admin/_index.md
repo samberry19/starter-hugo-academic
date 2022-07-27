@@ -1,9 +1,9 @@
 ---
 title: Sam Berry
-role: PhD candidate in Biophysics
+role: PhD candidate in Biophysics, Harvard University
+avatar_filename: https://www.deboramarkslab.com/members
 bio: ""
-interests:
-  - Biophysics
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,3 +38,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I am currently a PhD student interested in the structure, function and evolution of proteins, with a particular interest in membrane transporters. I work with Debora Marks and Rachelle Gaudet.
